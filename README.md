@@ -8,9 +8,11 @@ git clone https://github.com/Nasriib/nasridocker
 ```
 sudo apt install docker-compose -y
 ```
+
 ```
 docker-compose build
 ```
+
 # Proceed to execute the following commands:
 ```
 mkdir -p ros2_ws/src
